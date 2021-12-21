@@ -1,0 +1,1 @@
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Xamarin_Forms___ContentPage_Custom_Renderer\UWP\CustomRenderer.UWP.csproj;x86

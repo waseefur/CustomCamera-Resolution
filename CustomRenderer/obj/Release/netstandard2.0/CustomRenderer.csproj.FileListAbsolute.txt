@@ -1,0 +1,50 @@
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Custom Render\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.deps.json
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Custom Render\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.dll
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Custom Render\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.pdb
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CameraPage.xaml.g.cs
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.csproj.CoreCompileInputs.cache
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.AssemblyInfoInputs.cache
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.AssemblyInfo.cs
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\XamlC.stamp
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.dll
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.pdb
+E:\waseef\ProjectLit\Android_App_for_Capturing_Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.csprojAssemblyReference.cache
+E:\waseef\ProjectLit\Automatic Download of Site Photos\Custom Render\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.deps.json
+E:\waseef\ProjectLit\Automatic Download of Site Photos\Custom Render\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.dll
+E:\waseef\ProjectLit\Automatic Download of Site Photos\Custom Render\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.pdb
+E:\waseef\ProjectLit\Automatic Download of Site Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.GeneratedMSBuildEditorConfig.editorconfig
+E:\waseef\ProjectLit\Automatic Download of Site Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CameraPage.xaml.g.cs
+E:\waseef\ProjectLit\Automatic Download of Site Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\waseef\ProjectLit\Automatic Download of Site Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.AssemblyInfoInputs.cache
+E:\waseef\ProjectLit\Automatic Download of Site Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.AssemblyInfo.cs
+E:\waseef\ProjectLit\Automatic Download of Site Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.csproj.CoreCompileInputs.cache
+E:\waseef\ProjectLit\Automatic Download of Site Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\XamlC.stamp
+E:\waseef\ProjectLit\Automatic Download of Site Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.dll
+E:\waseef\ProjectLit\Automatic Download of Site Photos\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.pdb
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.deps.json
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.dll
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.pdb
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CameraPage.xaml.g.cs
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.AssemblyInfoInputs.cache
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.AssemblyInfo.cs
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.csproj.CoreCompileInputs.cache
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.dll
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.pdb
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.csproj.AssemblyReference.cache
+C:\Users\Waseef\Downloads\Custom Render\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.GeneratedMSBuildEditorConfig.editorconfig
+E:\CustomCamera-Resolution\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.deps.json
+E:\CustomCamera-Resolution\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.dll
+E:\CustomCamera-Resolution\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.pdb
+E:\CustomCamera-Resolution\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.csproj.AssemblyReference.cache
+E:\CustomCamera-Resolution\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.GeneratedMSBuildEditorConfig.editorconfig
+E:\CustomCamera-Resolution\CustomRenderer\obj\Release\netstandard2.0\CameraPage.xaml.g.cs
+E:\CustomCamera-Resolution\CustomRenderer\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\CustomCamera-Resolution\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.AssemblyInfoInputs.cache
+E:\CustomCamera-Resolution\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.AssemblyInfo.cs
+E:\CustomCamera-Resolution\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.csproj.CoreCompileInputs.cache
+E:\CustomCamera-Resolution\CustomRenderer\obj\Release\netstandard2.0\XamlC.stamp
+E:\CustomCamera-Resolution\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.dll
+E:\CustomCamera-Resolution\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.pdb
